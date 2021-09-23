@@ -8,4 +8,11 @@ h1{
 h2{
     color: 242F40;
 }
-.Main-Header {text-align: center;}
+
+.center {text-align: center;}
+
+.center_image {align-items: center;}
+
+.follow_image_link {position:relative}
+
+Color site: /https://coolors.co/363636-242f40-cca43b-e5e5e5-ffffff
