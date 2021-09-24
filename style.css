@@ -9,10 +9,18 @@ h2{
     color: 242F40;
 }
 
-.center {text-align: center;}
+.center {margin-left: auto;}
 
-.center_image {align-items: center;}
+.picturefollow {
+    position: relative; 
+}
 
-.follow_image_link {position:relative}
+h2{
+    padding: 10px;
+    position: relative;
+    margin-bottom: 1000px;
+    width: 500px;
+}
+
 
 Color site: /https://coolors.co/363636-242f40-cca43b-e5e5e5-ffffff
