@@ -1,0 +1,61 @@
+body {
+    background-color: #ABEDB0;
+    }
+    h1{
+        color: #336699;
+        text-align: center;
+    }
+    h2{
+        color: #E5E5E5;
+   text-align: center;
+    }
+    
+    h3 {
+text-align: center;
+    }
+
+h4{
+    text-align: center;
+    font: 20px;
+}
+    
+.heading{
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.side-margin{
+    margin: 0 20px 0 20px;
+}
+
+    .picturefollow {
+        position: relative; 
+    }
+    
+    .Intro-Page{
+        background-color: #5DD24B;
+        padding: 10px 10px;
+    }
+
+    .BlogPostOne{
+        background-color: #2F4858;
+        font-size: 20px;
+        color: #D7E3EA;
+        padding: 10px 10px
+    }
+    
+.BlogPostTwo{
+    background-color: #011638;
+    font-size: 20px;
+    color: #D7E3EA;
+    padding: 10px 10px
+}
+
+.BlogPostThree{
+    background-color: #8A84E2;
+    font-size: 20px;
+    color: #D7E3EA;
+    padding: 10px 10px
+}
+
+    Color site: /https://coolors.co/363636-242f40-cca43b-e5e5e5-ffffff
