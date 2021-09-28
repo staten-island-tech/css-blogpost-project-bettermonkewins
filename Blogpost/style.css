@@ -11,12 +11,8 @@ body {
    text-align: center;
     }
     
-    h3 {
-text-align: center;
-    }
-
+ 
 h4{
-    text-align: center;
     font: 20px;
 }
     
@@ -37,6 +33,7 @@ h4{
         background-color: #5DD24B;
         padding: 10px 10px;
         font-family: 'Times New Roman', Times, serif;
+        text-align: center;
     }
 
     .BlogPostOne{
@@ -44,6 +41,7 @@ h4{
         font-size: 20px;
         color: #D7E3EA;
         padding: 10px 10px
+        text-align: center;
     }
     
 .BlogPostTwo{
@@ -51,6 +49,7 @@ h4{
     font-size: 20px;
     color: #D7E3EA;
     padding: 10px 10px
+    text-align: center;
 }
 
 .BlogPostThree{
@@ -58,6 +57,11 @@ h4{
     font-size: 20px;
     color: #D7E3EA;
     padding: 10px 10px
+    text-align: center;
+}
+
+.logo{
+margin-left: 40px; 
 }
 
 img:hover {
@@ -81,5 +85,7 @@ img:hover {
     90% { transform: translate(1px, 2px) rotate(0deg); }
     100% { transform: translate(1px, -2px) rotate(-1deg); }
   }
+
+
 
     Color site: /https://coolors.co/363636-242f40-cca43b-e5e5e5-ffffff
